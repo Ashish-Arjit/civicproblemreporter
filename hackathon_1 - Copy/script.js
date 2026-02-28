@@ -1,4 +1,4 @@
-const API_BASE = 'http://localhost:5050';
+const API_BASE = 'https://civicproblemreporter-demo1.onrender.com';
 
 // DOM Elements
 const complaintForm = document.getElementById('complaint-form');
